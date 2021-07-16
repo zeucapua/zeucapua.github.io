@@ -15,5 +15,23 @@
             "first_name": "Jane",
             "role": "Tester"
         }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "text": "hello"
+        },
+        {
+            "id": 2,
+            "text": "howdy"
+        },
+        {
+            "id": 3,
+            "text": "hi"
+        },
+        {
+            "id": 4,
+            "text": "aloha"
+        }
     ]
 }
